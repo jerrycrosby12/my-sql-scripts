@@ -4,7 +4,7 @@ create database UNLV_Parking_System;
 -- Use the database that was just created
 use UNLV_Parking_System;
 
-
+-- Edited on GitHub
 -- DROP database UNLV_Parking_System;
 
 -- Create USER table, add attributes
